@@ -33,7 +33,7 @@
 						<input type="submit" class="fadeIn third" value="Search" name="button">
 						<input type="submit" class="fadeIn third" value="View All" name="all">
 						<br>
-						<a href="c_insert.html" style="color: black;">Add New Patient</a>
+						<a href="c_insert.html" style="color: black;"><u>Add New Patient</u></a>
 					</form> 
 				</div>	
 			</div>	

@@ -36,7 +36,7 @@ if(isset($_POST['button']))
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;">Analyze Patient History</button></a>
+    font-size: 16px;">Analyze All Patients</button></a>
 	</div>
 	<div id="the">
 		<table>
@@ -77,7 +77,7 @@ if(isset($_POST['button']))
 	</div>	
 	<br>
 	<div style="text-align: center;">
-		<a style="display: inline-block; color: red;" href="c_search.php" style="color: red;"> <b><em>Go Back</em></b> </a>
+		<a style="display: inline-block; color: red;" href="c_search.php" style="color: red;"> <u><b><em>Go Back</em></b></u> </a>
 	</div>
 	
 	
